@@ -1,0 +1,3 @@
+wcferry==39.0.14.1
+fabric==3.2.2
+requests==2.31.0
