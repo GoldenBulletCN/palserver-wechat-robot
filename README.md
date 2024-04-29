@@ -1,17 +1,25 @@
 # palserver-wechat-robot
 
-palserver-wechat-robot是一款开源的幻兽帕鲁服务器群聊微信运维机器人，基于微信机器人工具[WeChatferry](https://github.com/lich0821/WeChatFerry)实现，因此**机器人需运行在Windows服务器上（幻兽帕鲁服务器仍运行在Linux服务器上）**。
+palserver-wechat-robot是一款运维幻兽帕鲁服务器的开源微信群聊机器人，基于微信机器人工具[WeChatferry](https://github.com/lich0821/WeChatFerry)实现，因此**机器人需运行在Windows服务器上（幻兽帕鲁服务器仍运行在Linux服务器上）**。
 
 目前支持以下群聊运维功能：
 
 【0】强制重启服务器（运维管理员特权指令）
+
 【1】查看服务器信息
+
 【2】更新服务器
+
 【3】重启服务器
+
 【4】查询在线玩家
+
 【5】广播消息（示例：5 全民制作人们大家好）
+
 【6】踢出玩家 （示例：6 玩家id）
+
 【7】封禁玩家（示例：7 玩家id）
+
 【8】解封玩家（示例：8 玩家id）
 
 
